@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.21)  22 MAY 2016 10:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.21)  22 MAY 2016 10:11
 entering extended mode
 **./document.tex
 (document.tex
@@ -178,13 +178,29 @@ l.132 			\begin{itemize}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.139 	\hline
+             
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.153 	\hline
+             
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
 [3] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 1146 strings out of 493634
- 15703 string characters out of 3131565
+ 1149 strings out of 493634
+ 15746 string characters out of 3131565
  71461 words of memory out of 3000000
- 4571 multiletter control sequences out of 15000+200000
- 7588 words of font info for 27 fonts, out of 3000000 for 9000
+ 4574 multiletter control sequences out of 15000+200000
+ 8194 words of font info for 29 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  27i,6n,21p,239b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/sanket bhimani/AppData/Local/Programs/MiKTeX 2.9/
@@ -193,7 +209,7 @@ l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sanket
  bhimani/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17
 .pfb><C:/Users/sanket bhimani/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmsy10.pfb>
-Output written on document.pdf (3 pages, 128264 bytes).
+Output written on document.pdf (3 pages, 130146 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
