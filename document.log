@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.21)  22 MAY 2016 10:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.21)  22 MAY 2016 10:10
 entering extended mode
 **./document.tex
 (document.tex
@@ -166,6 +166,18 @@ l.123 			\begin{itemize}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.132 			\begin{itemize}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 [3] (document.aux) ) 
 Here is how much of TeX's memory you used:
  1146 strings out of 493634
@@ -181,7 +193,7 @@ l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sanket
  bhimani/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17
 .pfb><C:/Users/sanket bhimani/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmsy10.pfb>
-Output written on document.pdf (3 pages, 128204 bytes).
+Output written on document.pdf (3 pages, 128264 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
