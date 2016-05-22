@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.21)  22 MAY 2016 09:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.21)  22 MAY 2016 10:02
 entering extended mode
 **./document.tex
 (document.tex
@@ -122,24 +122,46 @@ l.30 	\hline
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 43.
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.48 			 &Junagadh&Nadiad&&&
+                            
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Overfull \hbox (38.55733pt too wide) in paragraph at lines 42--51
+[]  
+ []
+
 [1
 
 {C:/Users/sanket bhimani/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./
 sanket.jpg>] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 1106 strings out of 493634
- 15102 string characters out of 3131565
- 68461 words of memory out of 3000000
- 4542 multiletter control sequences out of 15000+200000
- 4237 words of font info for 16 fonts, out of 3000000 for 9000
+ 1128 strings out of 493634
+ 15340 string characters out of 3131565
+ 69461 words of memory out of 3000000
+ 4556 multiletter control sequences out of 15000+200000
+ 7281 words of font info for 26 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,5n,21p,239b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,21p,239b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/sanket bhimani/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sanket bhimani/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on document.pdf (1 page, 98436 bytes).
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/sanket bhimani/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Use
+rs/sanket bhimani/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr17.pfb>
+Output written on document.pdf (1 page, 111772 bytes).
 PDF statistics:
- 15 PDF objects out of 1000 (max. 8388607)
+ 19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
